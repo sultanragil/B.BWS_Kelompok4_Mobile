@@ -70,14 +70,14 @@ public class MainActivity extends AppCompatActivity {
 
         // adding data to model
         categoryList = new ArrayList<>();
-        categoryList.add(new Category(1, ic_home_fruits));
-        categoryList.add(new Category(2, ic_home_fish));
-        categoryList.add(new Category(3, ic_home_meats));
-        categoryList.add(new Category(4, ic_home_veggies));
-        categoryList.add(new Category(5, ic_home_fruits));
-        categoryList.add(new Category(6, ic_home_fish));
-        categoryList.add(new Category(7, ic_home_meats));
-        categoryList.add(new Category(8, ic_home_veggies));
+        categoryList.add(new Category(1, kimetsu));
+        categoryList.add(new Category(2, kyoukai));
+        categoryList.add(new Category(3, rezero));
+        categoryList.add(new Category(4, itachi));
+        categoryList.add(new Category(5, violet));
+        categoryList.add(new Category(6, boku));
+        categoryList.add(new Category(7, kimetsu));
+        categoryList.add(new Category(8, itachi));
 
         // adding data to model
         recentlyViewedList = new ArrayList<>();
